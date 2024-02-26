@@ -6,7 +6,10 @@
 # Conteúdo Ministrado 
 
 * Tabelas
-  * [Links Internos](https://github.com/wagnerlimanet/aula02-de-html-links-e-imagens/blob/main/links-internos-pagina01.html)
+  * [Estrutura Base](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/tab-estrutura-simples-tabelas.html)
+  * [Estrutura Base com Títulos](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/tab-estrutura-titulo-tabelas.html)
+  * [Estrutura Semântica](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/tab-estrutura-semantica-tabelas.html)
+  * [Abreviação de Códigos](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/tab-abreviacao-de-codigos.html)
 
 * Formulários
   * [Input Label](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-label-input.html)
@@ -22,11 +25,6 @@
   * [Input Time](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-time.html)
   * [Input File](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-file.html)
   
-  
-  
-  
-  
-
 # Exercícios 
 
 * [Exercício 01 - Página de Produtos](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-tabelas-produtos.html)
