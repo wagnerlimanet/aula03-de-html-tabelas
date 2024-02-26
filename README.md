@@ -13,11 +13,10 @@
 
 # Exercícios 
 
-* Exercícios
-  * [Exercício 01](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-tabelas-produtos.html)
-  * [Exercício 02](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio002-tabelas-monitor.html)
-  * [Exercício 03](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio003-tabelas-carrinho-de-compras.html) 
-  * [Exercício 04](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio004-tabelas-painel-admin.html)
+* [Exercício 01](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-tabelas-produtos.html)
+* [Exercício 02](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio002-tabelas-monitor.html)
+* [Exercício 03](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio003-tabelas-carrinho-de-compras.html) 
+* [Exercício 04](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio004-tabelas-painel-admin.html)
 
 # Professor Wagner Lima
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/80631657?v=4" width=115 align=left>
