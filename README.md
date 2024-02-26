@@ -5,10 +5,10 @@
 
 # Conteúdo Ministrado 
 
-*Tabelas
+* Tabelas
  * [Links Internos](https://github.com/wagnerlimanet/aula02-de-html-links-e-imagens/blob/main/links-internos-pagina01.html)
 
-*Formulários
+* Formulários
  * [Links Internos](https://github.com/wagnerlimanet/aula02-de-html-links-e-imagens/blob/main/links-internos-pagina01.html)
 
 # Exercícios 
