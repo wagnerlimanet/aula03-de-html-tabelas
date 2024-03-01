@@ -34,7 +34,7 @@
   * [Página Carrinho de Compras](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp3%5D-tabelas-carrinho-de-compras.html) 
   * [Página do Painel CRUD](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp4%5D-tabelas-painel-admin.html)
 * Exercício 02 - Tabelas
-  * [Tabela Periódica](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp1%5D-tabelas-produtos.html)
+  * [Tabela Periódica](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio002-tabelas-tabela-periodica.html)
 
 # Professor Wagner Lima
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/80631657?v=4" width=115 align=left>
