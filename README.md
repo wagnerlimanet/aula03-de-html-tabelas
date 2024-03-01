@@ -31,9 +31,12 @@
 * Exercício 01 - Tabelas
   * Página de Produtos
     * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp1%5D-tabelas-produtos.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp1%5D-tabelas-produtos.html)
-  * Página Interna do Monitor [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp2%5D-tabelas-monitor.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp2%5D-tabelas-monitor.html)
-  * [Página Carrinho de Compras](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp3%5D-tabelas-carrinho-de-compras.html) 
-  * [Página do Painel CRUD](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp4%5D-tabelas-painel-admin.html)
+  * Página Interna do Monitor
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp2%5D-tabelas-monitor.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp2%5D-tabelas-monitor.html)
+  * Página Carrinho de Compras
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp3%5D-tabelas-carrinho-de-compras.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp3%5D-tabelas-carrinho-de-compras.html)
+  * Página do Painel CRUD
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp4%5D-tabelas-painel-admin.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp4%5D-tabelas-painel-admin.html)
 * Exercício 02 - Tabelas
   * Tabela Periódica
     * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio002-tabelas-tabela-periodica.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio002-tabelas-tabela-periodica.html)
