@@ -1,7 +1,7 @@
 # aula03-de-html-tabelas-e-formularios
  Aula 03 de HTML, onde foi ensinado como criar tabelas e usar formulários no site, além de feito em sala de aula exercícios de fixação, envolvendo tabelas, imagens e formulários. 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=À%20INICIAR&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 # Conteúdo Ministrado 
 
