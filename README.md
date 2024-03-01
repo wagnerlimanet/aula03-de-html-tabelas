@@ -29,10 +29,10 @@
 # Exercícios 
 
 * Exercício 01 - Tabelas
-  * [Exercício 01 - Página de Produtos](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-tabelas-produtos.html)
-  * [Exercício 02 - Página Interna do Monitor](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio002-tabelas-monitor.html)
-  * [Exercício 03 - Página do Carrinho de Compras](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio003-tabelas-carrinho-de-compras.html) 
-  * [Exercício 04 - Página do Painel CRUD](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio004-tabelas-painel-admin.html)
+  * [Página de Produtos](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp1%5D-tabelas-produtos.html)
+  * [Página Interna do Monitor](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp2%5D-tabelas-monitor.html)
+  * [Página Carrinho de Compras](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp3%5D-tabelas-carrinho-de-compras.html) 
+  * [Página do Painel CRUD](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp4%5D-tabelas-painel-admin.html)
 
 # Professor Wagner Lima
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/80631657?v=4" width=115 align=left>
