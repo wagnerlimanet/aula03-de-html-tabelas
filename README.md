@@ -6,10 +6,10 @@
 # Conteúdo Ministrado 
 
 * Tabelas
-  * [Estrutura Base](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/tab-estrutura-simples-tabelas.html)
-  * [Estrutura Base com Títulos](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/tab-estrutura-titulo-tabelas.html)
-  * [Estrutura Semântica](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/tab-estrutura-semantica-tabelas.html)
-  * [Abreviação de Códigos](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/tab-abreviacao-de-codigos.html)
+  * [Estrutura Base](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/estrutura-simples-tabelas.html)
+  * [Estrutura Base com Títulos](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/estrutura-titulo-tabelas.html)
+  * [Estrutura Semântica](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/estrutura-semantica-tabelas.html)
+  * [Abreviação de Códigos](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/abreviacao-de-codigos.html)
   
 # Exercícios 
 
