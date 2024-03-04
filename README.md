@@ -6,47 +6,32 @@
 # Conteúdo Ministrado 
 
 * Tabelas
-  * [Estrutura Base](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/tab-estrutura-simples-tabelas.html)
-  * [Estrutura Base com Títulos](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/tab-estrutura-titulo-tabelas.html)
-  * [Estrutura Semântica](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/tab-estrutura-semantica-tabelas.html)
-  * [Abreviação de Códigos](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/tab-abreviacao-de-codigos.html)
- 
-* Formulários
-  * [Input Label](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-label-input.html)
-  * [Input Text](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-text.html)
-  * [Input Password](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-password.html)
-  * [Input Textarea](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-textarea.html)
-  * [Input Email](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-email.html)
-  * [Input Site](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-site.html)
-  * [Input Color](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-color.html)
-  * [Input Number](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-number.html)
-  * [Input Range](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-range.html)
-  * [Input Date](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-date.html)
-  * [Input Time](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-time.html)
-  * [Input File](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/form-input-file.html)
-
+  * [Estrutura Base](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/tab-estrutura-simples-tabelas.html)
+  * [Estrutura Base com Títulos](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/tab-estrutura-titulo-tabelas.html)
+  * [Estrutura Semântica](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/tab-estrutura-semantica-tabelas.html)
+  * [Abreviação de Códigos](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/tab-abreviacao-de-codigos.html)
   
 # Exercícios 
 
 * Exercício 01
   * Página de Produtos
-    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp1%5D-tabelas-produtos.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp1%5D-tabelas-produtos.html)
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio001-%5Bp1%5D-tabelas-produtos.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas/exercicio001-%5Bp1%5D-tabelas-produtos.html)
   * Página Interna do Monitor
-    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp2%5D-tabelas-monitor.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp2%5D-tabelas-monitor.html)
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio001-%5Bp2%5D-tabelas-monitor.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas/exercicio001-%5Bp2%5D-tabelas-monitor.html)
   * Página Carrinho de Compras
-    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp3%5D-tabelas-carrinho-de-compras.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp3%5D-tabelas-carrinho-de-compras.html)
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio001-%5Bp3%5D-tabelas-carrinho-de-compras.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas/exercicio001-%5Bp3%5D-tabelas-carrinho-de-compras.html)
   * Página do Painel CRUD
-    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp4%5D-tabelas-painel-admin.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp4%5D-tabelas-painel-admin.html)
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio001-%5Bp4%5D-tabelas-painel-admin.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas/exercicio001-%5Bp4%5D-tabelas-painel-admin.html)
       
 * Exercício 02
   * Tabela Periódica
-    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio002-tabelas-tabela-periodica.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio002-tabelas-tabela-periodica.html)
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio002-tabelas-tabela-periodica.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas/exercicio002-tabelas-tabela-periodica.html)
    
 * Exercício 03
   * Tabela Campeonato Brasileiro 2023
-    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio003-tabelas-campeonato-brasileiro-2023.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio003-tabelas-campeonato-brasileiro-2023.html)
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio003-tabelas-campeonato-brasileiro-2023.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas/exercicio003-tabelas-campeonato-brasileiro-2023.html)
   * Tabela Campeonato Brasileiro 2024
-    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio003-tabelas-campeonato-brasileiro-2024.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio003-tabelas-campeonato-brasileiro-2024.html)
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio003-tabelas-campeonato-brasileiro-2024.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas/exercicio003-tabelas-campeonato-brasileiro-2024.html)
       
 
 # Professor Wagner Lima
