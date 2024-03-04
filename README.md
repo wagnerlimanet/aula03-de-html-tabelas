@@ -28,7 +28,7 @@
   
 # Exercícios 
 
-* Exercício 01 - Tabelas
+* Exercício 01
   * Página de Produtos
     * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp1%5D-tabelas-produtos.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp1%5D-tabelas-produtos.html)
   * Página Interna do Monitor
@@ -38,9 +38,16 @@
   * Página do Painel CRUD
     * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio001-%5Bp4%5D-tabelas-painel-admin.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio001-%5Bp4%5D-tabelas-painel-admin.html)
       
-* Exercício 02 - Tabelas
+* Exercício 02
   * Tabela Periódica
     * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas-e-formularios/blob/main/exercicio002-tabelas-tabela-periodica.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio002-tabelas-tabela-periodica.html)
+   
+* Exercício 03
+  * Tabela Campeonato Brasileiro 2023
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio003-tabelas-campeonato-brasileiro-2023.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio003-tabelas-campeonato-brasileiro-2023.html)
+  * Tabela Campeonato Brasileiro 2024
+    * [Versão Código](https://github.com/wagnerlimanet/aula03-de-html-tabelas/blob/main/exercicio003-tabelas-campeonato-brasileiro-2024.html) | [Versão Web](https://wagnerlimanet.github.io/aula03-de-html-tabelas-e-formularios/exercicio003-tabelas-campeonato-brasileiro-2024.html)
+      
 
 # Professor Wagner Lima
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/80631657?v=4" width=115 align=left>
